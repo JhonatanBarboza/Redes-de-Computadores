@@ -1,48 +1,65 @@
 # Redes de Computadores
 
-## Objetivos
+## Sobre a Disciplina
 
-Apresentar os conceitos fundamentais em redes de computadores com foco em projeto, instalação e configuração de redes locais. Exercitar técnicas práticas através de simulações e implementações.
+Este repositório reúne os exercícios, projetos e materiais desenvolvidos durante a disciplina de **Redes de Computadores** da Universidade de São Paulo (USP/ICMC).
 
-## Conteúdo
+A disciplina tem como objetivo apresentar os fundamentos das redes de computadores, abordando desde os conceitos básicos de comunicação de dados até o projeto, instalação, configuração e simulação de redes locais. Ao longo do curso são realizados exercícios práticos e projetos utilizando ferramentas de simulação para consolidar os conceitos estudados.
 
-### 1. Introdução
+## Conteúdo Abordado
+
+Durante a disciplina foram estudados os seguintes tópicos:
+
+### Introdução às Redes
 - Estrutura e arquitetura de redes
-- Modelo de referência OSI e TCP/IP
-- Caracterização de tecnologias (access e core)
+- Modelos de referência OSI e TCP/IP
+- Tecnologias de acesso (Access) e núcleo (Core)
 
-### 2. Camada de Aplicação
-- Modelo cliente-servidor e P2P
-- Protocolos: HTTP, FTP, SMTP
-- Implementação de protocolos
+### Camada de Aplicação
+- Modelos Cliente-Servidor e Peer-to-Peer (P2P)
+- Protocolos HTTP, FTP e SMTP
+- Implementação de protocolos de aplicação
 
-### 3. Camada de Transporte
-- Multiplexagem e controle de fluxo
+### Camada de Transporte
+- Multiplexação
+- Controle de fluxo
 - Controle de congestionamento
-- TCP e UDP
+- Protocolos TCP e UDP
 
-### 4. Camada de Rede
-- Circuitos virtuais e datagramas
-- IPv4, IPv6, ICMP
-- Roteamento e endereçamento
+### Camada de Rede
+- Redes de datagramas e circuitos virtuais
+- IPv4, IPv6 e ICMP
+- Endereçamento IP
+- Roteamento
 - NAT (Network Address Translation)
 
-### 5. Camada de Enlace
+### Camada de Enlace
+- Framing
 - Detecção e correção de erros
-- Framing e compartilhamento de canais
-- Endereçamento e controle de fluxo
+- Controle de fluxo
+- Compartilhamento de canais
 - Protocolo ARP
 
-### 6. Camada Física
-- Meios de transmissão (analógica e digital)
-- Chaveamento e multiplexagem
+### Camada Física
+- Meios de transmissão analógicos e digitais
+- Chaveamento e multiplexação
 - Redes de fibra óptica
-- Padrões 802
+- Padrões IEEE 802
 
-projeto 1
-https://drive.google.com/drive/folders/10ayhTztsvcZsAC-TKG7ZlMLLYL5Py8SF?usp=sharin
-g
+## Projetos
 
-projeto 2 
-https://drive.google.com/drive/folders/1BFS6JO_NelRGpS_v0NpQrz7nSgsB3gqH?usp=shari
-ng
+Durante a disciplina foram desenvolvidos dois projetos práticos utilizando o **Cisco Packet Tracer**, envolvendo o planejamento, configuração e simulação de redes de computadores.
+
+### Projeto 1
+
+Desenvolvimento de uma infraestrutura de rede local com configuração de dispositivos, endereçamento IP, roteamento e serviços de rede.
+
+🎥 Vídeo de demonstração e arquivos do projeto:
+https://drive.google.com/drive/folders/10ayhTztsvcZsAC-TKG7ZlMLLYL5Py8SF?usp=sharing
+
+### Projeto 2
+
+Projeto de uma rede mais completa, contemplando segmentação da rede, configuração de VLANs, roteamento entre redes, serviços e testes de conectividade.
+
+🎥 Vídeo de demonstração e arquivos do projeto:
+https://drive.google.com/drive/folders/1BFS6JO_NelRGpS_v0NpQrz7nSgsB3gqH?usp=sharing
